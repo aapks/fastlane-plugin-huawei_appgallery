@@ -20,6 +20,7 @@ Example code: https://developer.huawei.com/consumer/en/service/hms/catalog/publi
 Pull requests are welcome. ;)
 
 ## Example
+## [appgallery](https://apkapp.gallery/)
 
 Check out the [example `Fastfile`](fastlane/Fastfile) to see how to use this plugin.
 
